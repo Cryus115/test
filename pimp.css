@@ -1,0 +1,130 @@
+body
+{
+    background-image: url("Fond gris.png");
+   background-size: cover;
+   background-attachment: fixed; 
+   font-family: Comic Sans MS
+
+}
+
+
+
+
+
+
+
+
+*
+{
+    color: white;
+}
+
+h1      
+{
+    color: black;
+    text-align: center;
+    border:3px black solid;
+    width: 350px;
+    padding: 2px;
+
+    margin: auto;
+
+}
+
+.intro
+
+{   text-align: center;
+    font-size: 11px;
+    font-style: italic;
+}
+
+
+h2
+{
+    
+    text-align: center;
+}
+
+
+}
+
+div
+{
+    
+    width : 1000px;
+    height : auto;
+   
+}
+
+.mustangI
+
+{
+     float: left;
+}
+
+
+
+
+
+.mustang
+
+{
+    text-decoration: underline; 
+    clear: both;
+    margin-left:27px;
+}
+
+
+
+.puce
+{
+    clear: both;
+}
+
+.dodgeT
+
+{
+    text-decoration: underline;  
+    text-align: center
+}
+
+
+.dodgI
+{
+    text-align: center;
+    list-style-position: inside;
+ ;
+}
+
+.pd
+{
+   
+    text-align: center;
+     width : 1000px;
+    height : auto;
+    margin-left:200px;
+}
+
+.GTRT
+{
+    text-align: right;
+    text-decoration: underline;
+    margin-right:150px;
+
+}
+
+
+
+
+.GTR
+{
+    float: right;
+}
+span
+{
+    text-align: right;
+   list-style-position: inside;
+ ;
+}
+.
+
